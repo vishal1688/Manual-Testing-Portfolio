@@ -23,8 +23,7 @@ manual-testing-portfolio/
 │   ├── OrangeHRM_Defect_Evidence.docx
 │   └── Defect GIF.gif
 ├── screenshots/
-│   └── OrangeHRM_Test Cases.png
-└──
+    └── OrangeHRM_Test Cases.png
 ```
 
 ---

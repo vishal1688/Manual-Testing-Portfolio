@@ -72,5 +72,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-silarpuria/) or
 Feel free to fork this repo or drop suggestions via issues or pull requests if you find it helpful!
 
 ```
-
----

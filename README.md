@@ -63,7 +63,7 @@ This repository serves as a sample of my manual testing capabilities, including:
 
 I am a passionate QA tester with hands-on experience in both manual and automated testing. I created this repository to demonstrate my skills in meticulous test design and defect reporting.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/) or check out my [Automation Portfolio](https://github.com/your-automation-repo) to see my Playwright JavaScript framework.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-silarpuria/) or check out my [Automation Portfolio](https://github.com/vishal1688/Playwright-Framework) to see my Playwright JavaScript framework.
 
 ---
 
